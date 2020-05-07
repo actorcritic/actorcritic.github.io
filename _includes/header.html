@@ -1,3 +1,20 @@
+<h2 style="font-family:courier new;"><a href="https://trexwithoutt.wordpress.com/" target="_blank">土</a> と Aaron Phaneuf</h2>
+	{% if site.facebook_username %}
+      	<a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" class="icon fa-facebook"><img src="{{ site.github.url }}/assets/icon/fb.png" style="width:15px;height:15px;"/></a>
+      	{% endif %}
+      	{% if site.linkedin_username %}
+     	<a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="icon fa-linkedin"><img src="{{ site.github.url }}/assets/icon/in.png" style="width:15px;height:15px;"/></a>
+      	{% endif %}
+      	{% if site.pinterest_username %}
+      	<a href="https://pinterest.com/{{ site.pinterest_username }}" target="_blank" class="icon fa-pinterest"><img src="{{ site.github.url }}/assets/icon/pin.png" style="width:15px;height:15px;"/></a>
+      	{% endif %}
+      	{% if site.github_username %}
+      	<a href="https://github.com/{{ site.github_username }}" target="_blank" class="icon fa-github"><img src="{{ site.github.url }}/assets/icon/git.png" style="width:15px;height:15px;"/></a>
+      	{% endif %}
+      	{% if site.email %}
+      	<a href="mailto:{{ site.email }}" target="_blank" class="icon fa-envelope-o"><span class="label">Email</span></a>
+      	{% endif %}
+
 <aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
