@@ -3,6 +3,8 @@ title:              "Phaneuf"
 description:        "A minimalist Jekyll theme"
 author_name:        "Aaron Phaneuf" # change this to your name
 github_username:    "aaronphaneuf"
+facebook_username:  "aaron.chase.77"
+linkedin_username:  "aaron-phaneuf-39165312b"
 logo_url:           https://avatars0.githubusercontent.com/u/47679534?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
