@@ -1,6 +1,6 @@
 ---
-title: "Incendium"
-date: "2020-05-12 16:42"
+title: SQL Tutorial - For Co-workers
+updated: 2020-05-12 16:40
 ---
 
 **Introduction**
