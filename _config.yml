@@ -8,7 +8,7 @@ linkedin_username:  ""
 logo_url:           # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://tqminhh.github.io # main url
+url:                https://actorcritic.github.io # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
